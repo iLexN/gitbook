@@ -13,10 +13,15 @@ layout:
     visible: true
 ---
 
-# This is first Page
+# Learning Programming
 
-* [ ] build a note app using laravel [filamentphp](https://filamentphp.com)
+* [ ] Build a note app using Laravel and [filament](https://filamentphp.com/)
+* [ ] Build a api-gate way
+* [ ] file share&#x20;
+* [ ] time tracker
+* [ ] password manager
 
 
 
-is it ok?
+
+
